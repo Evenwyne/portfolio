@@ -4,10 +4,9 @@ My journey began in 2017 at Seattle Central Community College, in Seattle, WA. I
 
 While honeymooning, I attended Southern New Hampshire University, and completed 2 more terms, making the Presidents List. 
 
-### Markdown
+### Present Day
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+I am endeavoring after a scholarship with Flatiron Coding Camp. While going through that process, I am teaching myself to code with resources like Codecademy. 
 ```markdown
 Syntax highlighted code block
 
