@@ -1,8 +1,8 @@
 ## Welcome to my portfolio!
 
-You can use the [editor on GitHub](https://github.com/Evenwyne/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My journey began in 2017 at Seattle Central Community College, in Seattle, WA. I completed 2 quarters, and then got married and went on an extended honeymoon. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+While honeymooning, I attended Southern New Hampshire University, and completed 2 more terms, making the Presidents List. 
 
 ### Markdown
 
